@@ -1,4 +1,4 @@
-# Generating build folder using create-react-app + typescript + web workers
+# Generating build folder using create-react-app, typescript, and web workers
 
 This repository is an basic example of how to work with create-react-app, typescript and web workers without pain.
 
