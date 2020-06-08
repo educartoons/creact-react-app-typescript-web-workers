@@ -37,7 +37,6 @@
     ]
   },
   "devDependencies": {
-    "@pmmmwh/react-refresh-webpack-plugin": "^0.3.3",
     "customize-cra": "^1.0.0",
     "react-app-rewired": "^2.1.6",
     "worker-loader": "^2.0.0"
